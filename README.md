@@ -1,5 +1,5 @@
 # youtube-batch-mp3 (for windows systems)
-List links in a text file and batch automate all of it into mp3 files about them
+List links in a text file and batch automate all of it into mp3 files
 
 ##Dependencies
 Youtube-dl (install .exe in program folder)
