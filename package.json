@@ -1,0 +1,28 @@
+{
+  "name": "youtube-batch-mp3",
+  "version": "1.0.0",
+  "description": "Batch automate youtube mp3 file downloads. High quality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotirintamamies/youtube-batch-mp3.git"
+  },
+  "keywords": [
+    "mp3",
+    "youtube",
+    "batch"
+  ],
+  "author": "Sebastian Laitila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotirintamamies/youtube-batch-mp3/issues"
+  },
+  "homepage": "https://github.com/kotirintamamies/youtube-batch-mp3#readme",
+  "dependencies": {
+    "video-converter": "^1.0.0",
+    "youtube-dl": "^1.11.1"
+  }
+}
